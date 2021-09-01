@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# TicTacToe
+This small React application simulates a TicTacToe game with the ability to go back into a specific move and to visualize the winner.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
